@@ -1,0 +1,22 @@
+{
+  "database_settings": {
+    "name": "test",
+    "username": "root",
+    "password": "12345678",
+    "host": "127.0.0.1"
+  },
+  "filter_fields": {
+    "name": {
+      "column": 0,
+      "label_text": "Name filter"
+    },
+    "document_serial": {
+      "column": 5,
+      "label_text": "Document serial filter"
+    },
+    "policy_serial": {
+      "column": 3,
+      "label_text": "Policy serial filter"
+    }
+  }
+}
